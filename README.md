@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IEEE-CS-SRM/branding/main/logo.png" alt="IEEE CS SRM Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c08b078e-9814-4317-a7bf-8de6b963ec2b" alt="IEEE CS SRM Logo" width="200"/>
+
 
 # IEEE Computer Society SRM Website
 
