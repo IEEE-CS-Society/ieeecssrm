@@ -4,6 +4,9 @@
 
 # IEEE Computer Society SRM Website
 
+![image](https://github.com/user-attachments/assets/3bfae47e-0e1e-4878-a37d-509b75c791ff)
+
+
 [![GitHub license](https://img.shields.io/github/license/IEEE-CS-SRM/main-website)](https://github.com/IEEE-CS-Society/ieeecssrm/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/IEEE-CS-SRM/main-website)](https://github.com/IEEE-CS-Society/ieeecssrm/issues)
 [![GitHub stars](https://img.shields.io/github/stars/IEEE-CS-SRM/main-website)](https://github.com/IEEE-CS-Society/ieeecssrm/stargazers)
@@ -32,8 +35,13 @@
 This repository contains the source code for the IEEE Computer Society SRM Chapter's main website. Our website serves as a central hub for members, showcasing our events, projects, and resources. It's designed to be responsive, accessible, and easy to maintain.
 
 <div align="center">
+![image](https://github.com/user-attachments/assets/3bfae47e-0e1e-4878-a37d-509b75c791ff)
+![image](https://github.com/user-attachments/assets/14a97e07-1257-4b14-9bc4-029205ef9704)
+![image](https://github.com/user-attachments/assets/15d0fbc6-0c07-41ce-9da8-f33fb7b1583a)
+![image](https://github.com/user-attachments/assets/c8316495-5885-4200-b883-0d01e59c2c7a)
 
-![Website Screenshot](https://raw.githubusercontent.com/IEEE-CS-SRM/main-website/main/screenshot.png)
+
+
 
 </div>
 
